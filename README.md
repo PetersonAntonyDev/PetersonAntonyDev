@@ -8,9 +8,33 @@
 
 ![Peter GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonAntonyDev&show_icons=true&theme=highcontrast)
 
-##Tecnologias usadas:
+## Tecnologias usadas:
 
 <div style="display: inline_block"><br>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br>
+    <img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
