@@ -8,7 +8,7 @@
 
 ![Peter GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonAntonyDev&show_icons=true&theme=highcontrast)
 
-## Tecnologias usadas:
+## Tecnologias utilizadas:
 
 <div style="display: inline_block"><br>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,3 +21,7 @@
     <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonAntonyDev&layout=compact)](https://github.com/PetersonAntonyDev/github-readme-stats)
+
+![Snake animation](https://github.com/PetersonAntonyDev/PetersonAntonyDev/blob/output/github-contribution-grid-snake.svg)
