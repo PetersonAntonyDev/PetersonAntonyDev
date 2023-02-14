@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aNpnCgHZ)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox)
 
-![Peter GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonAntonyDev&show_icons=true&theme=highcontrast)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonAntonyDev&show_icons=true&theme=onedark)
 
 ## Tecnologias utilizadas:
 
@@ -22,6 +22,6 @@
     <img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonAntonyDev&layout=compact)](https://github.com/PetersonAntonyDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/PetersonAntonyDev/github-readme-stats)
 
-![snake gif](https://github.com/PetersonAntonyDev/PetersonAntonyDev/blob/output/github-contribution-grid-snake.svg)
+
