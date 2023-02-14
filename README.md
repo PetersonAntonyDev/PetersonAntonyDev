@@ -22,6 +22,6 @@
     <img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonAntonyDev&layout=compact)](https://github.com/PetersonAntonyDev/github-readme-stats)
+
 
 
