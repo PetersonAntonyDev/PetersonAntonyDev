@@ -24,4 +24,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonAntonyDev&layout=compact)](https://github.com/PetersonAntonyDev/github-readme-stats)
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PetersonAntonyDev/PetersonAntonyDev/blob/output/github-contribution-grid-snake.svg)
