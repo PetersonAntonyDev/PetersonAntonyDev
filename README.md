@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aNpnCgHZ)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox)
 
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonAntonyDev&show_icons=true&theme=onedark)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonAntonyDev&show_icons=true&theme=merko)
 
 ## Tecnologias utilizadas:
 
