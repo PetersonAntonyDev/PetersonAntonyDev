@@ -8,6 +8,7 @@
 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetersonAntonyDev&show_icons=true&theme=merko)
 
+
 ## Tecnologias utilizadas:
 
 <div style="display: inline_block"><br>
